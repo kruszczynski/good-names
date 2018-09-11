@@ -11,3 +11,4 @@ Should you use one of the names please open a PR/Issue and I'll move it.
 
 - Comfy Bibs
 - Well Fitted Saddle
+- Full Parallel Beans
